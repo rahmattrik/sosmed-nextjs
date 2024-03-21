@@ -1,0 +1,11 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Arthur Lox",
+            "email": "arthurlox@mail.com",
+            "password": "ArthurPass",
+            "isVerify": true
+        }
+    ]
+}
